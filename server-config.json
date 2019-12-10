@@ -1,0 +1,34 @@
+{
+    "serverConfig":{
+        "webServer": {
+            "domain": "47.56.167.186",
+            "port": 8889,
+            "yxdTag": "test-hs"
+        },
+        "loginServer": {
+            "domain": "47.56.167.186",
+            "port": 65300,
+            "yxdTag": "test-hs"
+        },
+        "lobbyServer": {
+            "domain": "47.56.167.186",
+            "port": 65400,
+            "yxdTag": "test-hs"
+        },
+        "dispatchServer": {
+            "domain": "47.56.167.186",
+            "port": 65500,
+            "yxdTag": "test-hs"
+        },
+        "fishCenterServer": {
+            "domain": "47.56.167.186",
+            "port": 31000,
+            "yxdTag": "test-hs"
+        },
+        "customServiceServer": {
+            "domain": "47.56.167.186",
+            "port": 7777
+        }
+    },
+    "configUrlList": []
+}
